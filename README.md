@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-[Deployment of this project](https://newssid.herokuapp.com/general).
+[Deployment of this project\](https://newssid.herokuapp.com/general).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
